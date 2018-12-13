@@ -13,5 +13,4 @@
 
 kNN是一种lazy式的学习方法，在上面的过程中不需要使用训练数据进行“学习”，在定位的时候直接在训练数据中搜索就可以。一些工具包中的kNN算法的训练过程中会建立一个kd树（一种数据结构），有利于在线预测时的搜索。
 
-参考：https://github.com/jiangqideng/codeInBlogs
-
+参考：https://www.cnblogs.com/rubbninja/p/6134481.html?utm_source=itdadao&utm_medium=referral
